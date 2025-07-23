@@ -25,7 +25,6 @@ wsl --status
 - Obsidian
 
 ## TODO
-- [ ] Installation WSL 2
 - [ ] Scritp de config WSL (avec dotfiles, Zsh/Fish, etc.)
 - [ ] Docker
 - [ ] Automatisation des VM
