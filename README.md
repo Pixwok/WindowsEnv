@@ -3,6 +3,12 @@ Dêpot pour mon environnement Windows.
 
 ## Utilisation & Script
 
+## WSL
+Après l'installation de WSL vérifier que WSL est bien en version 2
+```
+wsl --status
+```
+
 ## Logiciel 
 - Notepad++
 - Keepass
