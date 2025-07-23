@@ -3,6 +3,7 @@ if (wsl --status -ne null) {
     Write-Host "WSL déjà présent"
     ## Force la version 2 de WSL
     wsl --set-default-version 2
+    wsl --status
 } else {
     Write-Host "WSL non présent"
     Write-Host "Lancement de l'installation de WSL"
