@@ -7,3 +7,4 @@ Get-AppxPackage *ZuneVideo* | Remove-AppxPackage
 Get-AppxPackage *BingNews* | Remove-AppxPackage
 Get-AppxPackage *windowscommunicationsapps* | Remove-AppxPackage
 Get-AppxPackage *MicrosoftStickyNotes* | Remove-AppxPackage
+Get-AppxPackage MicrosoftCorporationII.QuickAssist | Remove-AppxPackage
